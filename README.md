@@ -2,7 +2,6 @@
 
 A fun turtle racing game built using Python's `turtle` graphics module. Watch your favorite turtle race against others and see who reaches the finish line first!
 
-![Turtle Racing Screenshot](https://user-images.githubusercontent.com/yourusername/turtlerace-screenshot.png)
 
 ---
 
