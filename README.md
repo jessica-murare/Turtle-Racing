@@ -31,5 +31,5 @@ No external packages are needed!
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/turtle-racing.git
+   git clone https://github.com/jessica-murare/Turtle-Racing.git
 
